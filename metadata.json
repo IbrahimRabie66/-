@@ -1,0 +1,6 @@
+{
+  "name": "المشكاة الإسلامية",
+  "description": "منصة إسلامية شاملة للقرآن الكريم بالتفسير الميسر وأصوات القراء، الأحاديث المسندة وكتب الصحاح PDF، والتقويم الهجري والميلادي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

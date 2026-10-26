@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Islamic 8-pointed Rub el Hizb star accent in warm Orange -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M54,22 L63,31 L76,31 L76,44 L85,54 L76,64 L76,77 L63,77 L54,86 L45,77 L32,77 L32,64 L23,54 L32,44 L32,31 L45,31 Z" />
+    <!-- Inner Petrol octagon -->
+    <path
+        android:fillColor="#0A3641"
+        android:pathData="M54,28 L61,35 L71,35 L71,45 L78,54 L71,63 L71,73 L61,73 L54,80 L47,73 L37,73 L37,63 L30,54 L37,45 L37,35 L47,35 Z" />
+    <!-- Open Quran Book Silhouette in pure White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,42 C48,39 41,39 36,41 L36,63 C41,61 48,61 53,64 Z M55,42 C60,39 67,39 72,41 L72,63 C67,61 60,61 55,64 Z" />
+    <!-- Golden Orange Crescent & Star at top of Quran -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M54,31 A4,4 0 1,0 58,36 A3.2,3.2 0 1,1 54,31 Z" />
+</vector>

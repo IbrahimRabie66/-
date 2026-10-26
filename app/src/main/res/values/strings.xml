@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">المشكاة الإسلامية</string>
+    <string name="app_subtitle">القرآن الكريم • الصحاح المسندة • التقويم الهجري</string>
+    <string name="nav_quran">القرآن الكريم</string>
+    <string name="nav_hadith">الأحاديث والصحاح</string>
+    <string name="nav_search">البحث الشامل</string>
+    <string name="nav_calendar">التقويم الهجري</string>
+    <string name="nav_bookmarks">المحفوظات</string>
+    <string name="search_hint">ابحث بآية، كلمة قرآنية، أو حديث شريف...</string>
+    <string name="reciter_abdulbasit">الشيخ عبد الباسط عبد الصمد</string>
+    <string name="reciter_minshawi">الشيخ محمد صديق المنشاوي</string>
+    <string name="reciter_alafasy">الشيخ مشاري راشد العفاسي</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="tafsir_muyassar_label">التفسير الميسر</string>
+    <string name="sihah_pdf_books">كتب الصحاح الستة (PDF)</string>
+    <string name="musnad_hadiths">الأحاديث المسندة والأبواب</string>
+    <string name="date_converter_title">محول التاريخ الفوري (هجري ⇄ ميلادي)</string>
+    <string name="white_days_label">الأيام البيض (١٣ - ١٤ - ١٥)</string>
+    <string name="add_calendar_note">إضافة ملاحظة أو تذكير لليوم</string>
+</resources>
